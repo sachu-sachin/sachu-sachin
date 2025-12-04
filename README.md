@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Stranger Things Title GIF (header) -->
-<img src="https://c.tenor.com/_bW4z6YQ4AAAAAC/stranger-things-logo.gif" alt="Stranger Things" width="680" style="max-width:100%;"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExam5hNTB0OXZoN3NrcHE0OW45ZXprZHZnZzJlbzIwb3J3MGU5MGI0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qj3mwYZaGck0NoI/giphy.gif" alt="Stranger Things" width="680" style="max-width:100%;"/>
 
 <!-- Typing subtitle -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=FF0000&size=30&lines=S+A+C+H+I+N+P;ReactJS+Frontend+Developer;Escaping+Legacy+Code" alt="Typing animation" />
