@@ -89,26 +89,3 @@ A learner-first platform with interactive tutorials, quizzes and live code examp
   <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" alt="eleven running" width="100" />
   <p style="font-style:italic;margin-top:6px;">Don't stop running — commit messages are my walkie-talkie.</p>
 </div>
-
----
-
-## 🎛 How to customize / swap media quickly
-
-1. Replace any GIF URLs above with a direct GIF link from Tenor/GIPHY/your own `raw.githubusercontent` hosting.  
-2. Want a different header? Swap the top `<img>` for any animated title card — ensure width ≤ 680px.  
-3. Replace the typing bar: change `readme-typing-svg` query string to customize lines/colors. Example:
-   - `https://readme-typing-svg.herokuapp.com?font=Orbitron&color=FF0000&size=30&lines=Line+1;Line+2`
-4. To host your own GIFs safely, add them to a repo (e.g., `assets/header.gif`) and reference raw link:
-   - `https://raw.githubusercontent.com/<username>/<repo>/main/assets/header.gif`
-
----
-
-## ✨ Want it to look EVEN MORE cinematic?
-
-I can:
-- replace GIFs with higher-quality custom looping animations (I can source or create them),  
-- produce a version that uses animated SVG neon text (smaller filesize), or  
-- convert this into a small static preview page (HTML + CSS) so you can tweak fonts & background more freely.
-
-Tell me which variant you want and I’ll produce it — example: **"Make neon SVG header + darker grainy background"** or **"Swap GIFs for these provided images"** and paste the image links.
-
