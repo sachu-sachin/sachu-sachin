@@ -65,7 +65,7 @@ A learner-first platform with interactive tutorials, quizzes and live code examp
 
 <!-- Project montage GIFs -->
 <div align="center" style="margin-top:10px;">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" alt="project-demo" width="320" style="margin-right:6px;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDVubTJlenVzZXEyMjczeXZyYXd1czNmeXhrYWtiMWUzM2Q4aGk4NiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/1SFsR5Qtiz47mrhPcm/giphy.gif" alt="project-demo" width="320" style="margin-right:6px;" />
   <img src="https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif" alt="code" width="320" />
 </div>
 
