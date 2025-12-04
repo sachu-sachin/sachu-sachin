@@ -14,15 +14,10 @@
 
 ---
 
-<div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sachu-sachin&show_icons=true&theme=dark&hide_border=true" alt="Sachin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachu-sachin&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
 
 <div align="center" style="margin-top:12px;">
   <!-- Flickering light bulb (mood) -->
-  <img src="https://media.giphy.com/media/3o6ZsWn2GJ1kZf1pOQ/giphy.gif" alt="flicker" width="48" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDVubTJlenVzZXEyMjczeXZyYXd1czNmeXhrYWtiMWUzM2Q4aGk4NiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/KH81yf4BPShIlKB5nM/giphy.gif" alt="flicker" width="48" />
 </div>
 
 ---
